@@ -6,6 +6,11 @@ This repository documents how enterprise organizations design, implement, and go
 Remote access is a critical capability for modern organizations, but it also introduces challenges related to identity, endpoint trust, network exposure, and auditability. This project examines those challenges and outlines practical approaches used in enterprise IT environments.
 
 ---
+## Key Artifacts
+
+- Remote Access Risk Considerations: [View Document](https://github.com/adombrowiak/remote-access-management/blob/main/remote-access-risk-considerations.md)
+
+---
 
 ## Objectives
 The goals of this repository are to:
@@ -63,7 +68,6 @@ Planned additions to this repository may include:
 - Architecture diagrams
 - Example access review workflows
 - Risk and control mapping artifacts
-- Metrics used to assess remote access effectiveness
 
 ---
 
